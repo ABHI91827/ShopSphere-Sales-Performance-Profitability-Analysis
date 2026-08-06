@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Brand,Supplier,Cost_Price,MRP,Margin_Percentage
+1,Jeans,Fashion,Urban,Supplier_21,2727,5240.97,47.97
+2,Handbag,Fashion,Elite,Supplier_1,2078,4960.89,58.11
+3,Dress,Fashion,HomeEase,Supplier_27,227,476.81,52.39
+4,Handbag,Fashion,Prime,Supplier_7,749,1452.99,48.45
+5,Dress,Fashion,TrendX,Supplier_25,843,1986.63,57.57
+6,Lipstick,Beauty,Urban,Supplier_11,3413,7543.5,54.76
+7,Perfume,Beauty,Nova,Supplier_12,4963,15745.68,68.48
+8,Yoga Mat,Sports,NextGen,Supplier_7,452,785.83,42.48
+9,Jeans,Fashion,Glow,Supplier_7,2255,4258.12,47.04
+10,Badminton Racket,Sports,HomeEase,Supplier_30,3004,5582.66,46.19
+11,Cricket Bat,Sports,StyleHub,Supplier_40,3936,6715.74,41.39
+12,Mattress,Home & Kitchen,HomeEase,Supplier_11,791,1586.95,50.16
+13,Camera,Electronics,Prime,Supplier_16,804,1030.73,22
+14,Serum,Beauty,Elite,Supplier_9,895,2162.01,58.6
+15,Face Wash,Beauty,PowerGear,Supplier_9,4848,12974.53,62.63
+16,Yoga Mat,Sports,ProMax,Supplier_21,4803,10188.49,52.86
+17,Shampoo,Beauty,TrendX,Supplier_22,3552,11019.26,67.77
+18,Mixer,Home & Kitchen,TrendX,Supplier_29,478,747.25,36.03
+19,Football,Sports,PowerGear,Supplier_38,1360,2903.33,53.16
+20,Jacket,Fashion,TrendX,Supplier_25,325,716.76,54.66
+21,Headphones,Electronics,PowerGear,Supplier_29,2880,3939.38,26.89
+22,T-Shirt,Fashion,HomeEase,Supplier_7,1345,3228.73,58.34
+23,Mobile,Electronics,Urban,Supplier_29,293,407.15,28.04
+24,T-Shirt,Fashion,TrendX,Supplier_24,1833,3586.23,48.89
+25,Shampoo,Beauty,StyleHub,Supplier_21,207,414.62,50.07
+26,Perfume,Beauty,Urban,Supplier_39,1787,4132.92,56.76
+27,T-Shirt,Fashion,TrendX,Supplier_36,3415,7574.11,54.91
+28,Dumbbell,Sports,Prime,Supplier_4,2174,4130.88,47.37
+29,Shoes,Fashion,TrendX,Supplier_9,1939,3675.61,47.25
+30,Chair,Home & Kitchen,ProMax,Supplier_1,4257,8430.97,49.51
+31,Tablet,Electronics,Nova,Supplier_5,3362,4137.07,18.73
+32,Badminton Racket,Sports,ProMax,Supplier_26,655,1478.16,55.69
+33,Serum,Beauty,Urban,Supplier_37,2098,6322.24,66.82
+34,Headphones,Electronics,Prime,Supplier_34,2463,3020.03,18.44
+35,Jeans,Fashion,ProMax,Supplier_12,1094,1979.36,44.73
+36,Lamp,Home & Kitchen,FitLife,Supplier_20,755,1440.58,47.59
+37,Headphones,Electronics,FitLife,Supplier_40,2606,3235.38,19.45
+38,Cricket Bat,Sports,Glow,Supplier_25,2069,4294.35,51.82
+39,Face Wash,Beauty,StyleHub,Supplier_5,3372,10539.19,68.01
+40,Shoes,Fashion,Glow,Supplier_19,336,737.49,54.44
+41,Lamp,Home & Kitchen,FitLife,Supplier_14,1792,2934.56,38.93
+42,Badminton Racket,Sports,Nova,Supplier_31,3867,6638.83,41.75
+43,Tablet,Electronics,Prime,Supplier_31,2730,3657.68,25.36
+44,Dumbbell,Sports,Elite,Supplier_36,662,1092.32,39.4
+45,Treadmill,Sports,Glow,Supplier_21,1304,2971.93,56.12
+46,Perfume,Beauty,Urban,Supplier_27,474,1083.5,56.25
+47,Smartwatch,Electronics,FitLife,Supplier_31,3787,5007.17,24.37
+48,Jacket,Fashion,StyleHub,Supplier_27,2851,6888.9,58.61
+49,Perfume,Beauty,Apex,Supplier_29,3177,8079.52,60.68
+50,Chair,Home & Kitchen,FitLife,Supplier_37,4445,7672.95,42.07
+51,Camera,Electronics,Apex,Supplier_28,1121,1573.99,28.78
+52,Lipstick,Beauty,Glow,Supplier_3,2102,5283.15,60.21
+53,Mixer,Home & Kitchen,HomeEase,Supplier_14,3589,6720.19,46.59
+54,Headphones,Electronics,TrendX,Supplier_4,2029,2566.27,20.94
+55,Handbag,Fashion,SmartOne,Supplier_35,2651,6441.83,58.85
+56,Football,Sports,Nova,Supplier_22,2200,4014.38,45.2
+57,Tablet,Electronics,HomeEase,Supplier_35,2962,4089.39,27.57
+58,Camera,Electronics,Glow,Supplier_6,1859,2604.5,28.62
+59,Face Wash,Beauty,Vision,Supplier_25,4503,14029.58,67.9
+60,Dumbbell,Sports,Glow,Supplier_2,2255,3948.32,42.89
+61,Handbag,Fashion,NextGen,Supplier_12,4758,11873.61,59.93
+62,Moisturizer,Beauty,NextGen,Supplier_37,986,2914.45,66.17
+63,Mixer,Home & Kitchen,SmartOne,Supplier_26,1639,2618.55,37.41
+64,Shoes,Fashion,Apex,Supplier_24,2171,4288.8,49.38
+65,Mixer,Home & Kitchen,Prime,Supplier_17,4616,9824.13,53.01
+66,Laptop,Electronics,TrendX,Supplier_31,2102,2704.83,22.29
+67,Shoes,Fashion,TrendX,Supplier_24,2680,4841.02,44.64
+68,Face Wash,Beauty,Elite,Supplier_24,3694,10288.13,64.09
+69,Headphones,Electronics,Vision,Supplier_14,3622,4502.71,19.56
+70,Table,Home & Kitchen,Nova,Supplier_37,3367,6992.6,51.85
+71,Shoes,Fashion,PowerGear,Supplier_14,4659,10084.25,53.8
+72,Lipstick,Beauty,Glow,Supplier_11,839,1973.51,57.49
+73,Lipstick,Beauty,Nova,Supplier_33,4411,13535.86,67.41
+74,Lamp,Home & Kitchen,StyleHub,Supplier_15,4292,6709.31,36.03
+75,Mobile,Electronics,TrendX,Supplier_12,978,1188.53,17.71
+76,Dress,Fashion,Apex,Supplier_30,2445,4945.52,50.56
+77,Dumbbell,Sports,HomeEase,Supplier_20,1447,2957.23,51.07
+78,Dumbbell,Sports,SmartOne,Supplier_4,853,1806.52,52.78
+79,Jacket,Fashion,Apex,Supplier_13,250,553.45,54.83
+80,Badminton Racket,Sports,Prime,Supplier_2,1067,1940.43,45.01
+81,Shampoo,Beauty,StyleHub,Supplier_10,4227,12885.45,67.2
+82,Smartwatch,Electronics,HomeEase,Supplier_37,3060,3714.82,17.63
+83,Shoes,Fashion,PowerGear,Supplier_1,2379,5692.94,58.21
+84,Lipstick,Beauty,PowerGear,Supplier_2,4425,8985.59,50.75
+85,Shampoo,Beauty,Prime,Supplier_32,3841,8706.97,55.89
+86,Tablet,Electronics,PowerGear,Supplier_36,3928,5278.16,25.58
+87,Shoes,Fashion,HomeEase,Supplier_5,4943,8917.42,44.57
+88,Lamp,Home & Kitchen,Glow,Supplier_26,1682,3699.7,54.54
+89,Cricket Bat,Sports,StyleHub,Supplier_21,1184,2694.08,56.05
+90,Smartwatch,Electronics,FitLife,Supplier_19,2067,2990.36,30.88
+91,T-Shirt,Fashion,Glow,Supplier_17,2223,5072,56.17
+92,Dumbbell,Sports,SmartOne,Supplier_15,1444,2609.28,44.66
+93,Serum,Beauty,HomeEase,Supplier_23,3419,7929.42,56.88
+94,Cricket Bat,Sports,HomeEase,Supplier_27,1765,2942.64,40.02
+95,Jeans,Fashion,PowerGear,Supplier_33,583,1380.83,57.78
+96,Serum,Beauty,Glow,Supplier_32,1066,2844.63,62.53
+97,T-Shirt,Fashion,FitLife,Supplier_7,686,1466.88,53.23
+98,Smartwatch,Electronics,Apex,Supplier_26,1222,1614.39,24.31
+99,Badminton Racket,Sports,SmartOne,Supplier_14,4329,9754.98,55.62
+100,Perfume,Beauty,TrendX,Supplier_4,2478,6271.77,60.49
+101,Table,Home & Kitchen,FitLife,Supplier_14,2357,3709.77,36.47
+102,Badminton Racket,Sports,ProMax,Supplier_1,1460,2934.51,50.25
+103,Cookware,Home & Kitchen,NextGen,Supplier_22,4958,8832.71,43.87
+104,Shampoo,Beauty,Nova,Supplier_14,3259,7650.84,57.4
+105,Smartwatch,Electronics,HomeEase,Supplier_5,1808,2350.57,23.08
+106,Shoes,Fashion,Urban,Supplier_40,2199,5322.64,58.69
+107,T-Shirt,Fashion,NextGen,Supplier_26,1913,4464.96,57.16
+108,Headphones,Electronics,Urban,Supplier_19,4601,6650.38,30.82
+109,Laptop,Electronics,Apex,Supplier_18,888,1121.98,20.85
+110,Lipstick,Beauty,TrendX,Supplier_30,3882,12202.36,68.19
+111,Cricket Bat,Sports,Glow,Supplier_15,2739,5301.31,48.33
+112,Dumbbell,Sports,Glow,Supplier_14,970,1566.42,38.08
+113,Moisturizer,Beauty,NextGen,Supplier_32,4955,10029.98,50.6
+114,Table,Home & Kitchen,PowerGear,Supplier_33,2476,5196.73,52.35
+115,Dumbbell,Sports,TrendX,Supplier_21,3918,7881.98,50.29
+116,Dumbbell,Sports,StyleHub,Supplier_22,1683,3003.45,43.96
+117,Moisturizer,Beauty,NextGen,Supplier_11,3637,8954.45,59.38
+118,Cricket Bat,Sports,SmartOne,Supplier_36,4732,10385.07,54.43
+119,Badminton Racket,Sports,Prime,Supplier_40,4574,9475.68,51.73
+120,Face Wash,Beauty,PowerGear,Supplier_24,4540,14524.67,68.74
+121,Jacket,Fashion,HomeEase,Supplier_21,2058,4849.39,57.56
+122,Mattress,Home & Kitchen,ProMax,Supplier_17,3505,7273.25,51.81
+123,Badminton Racket,Sports,SmartOne,Supplier_29,982,1757.99,44.14
+124,Table,Home & Kitchen,SmartOne,Supplier_3,569,1249.75,54.47
+125,Moisturizer,Beauty,Vision,Supplier_22,4183,9251.78,54.79
+126,Cookware,Home & Kitchen,StyleHub,Supplier_39,3914,6579.58,40.51
+127,Shoes,Fashion,TrendX,Supplier_21,1141,2566.63,55.54
+128,Table,Home & Kitchen,NextGen,Supplier_16,3200,6673.35,52.05
+129,Face Wash,Beauty,Vision,Supplier_38,690,1996.74,65.44
+130,Smartwatch,Electronics,Prime,Supplier_31,4259,5600.15,23.95
+131,Cookware,Home & Kitchen,Nova,Supplier_19,364,586.21,37.91
+132,Mobile,Electronics,Nova,Supplier_29,1015,1321.79,23.21
+133,Mobile,Electronics,NextGen,Supplier_21,3869,5199.6,25.59
+134,Smartwatch,Electronics,NextGen,Supplier_19,2621,3262.13,19.65
+135,Dress,Fashion,StyleHub,Supplier_11,4687,10034.66,53.29
+136,Face Wash,Beauty,Urban,Supplier_37,1378,3411.27,59.6
+137,Tablet,Electronics,StyleHub,Supplier_19,4380,5594.33,21.71
+138,Shampoo,Beauty,NextGen,Supplier_7,4397,11093.65,60.36
+139,Lamp,Home & Kitchen,NextGen,Supplier_40,3074,5456.38,43.66
+140,Lipstick,Beauty,TrendX,Supplier_25,966,1996.25,51.61
+141,Shampoo,Beauty,ProMax,Supplier_11,3525,8041.14,56.16
+142,Camera,Electronics,HomeEase,Supplier_28,3574,5162.5,30.77
+143,Smartwatch,Electronics,Nova,Supplier_22,4706,6430.2,26.81
+144,Lipstick,Beauty,PowerGear,Supplier_36,1730,5239.67,66.98
+145,Perfume,Beauty,Nova,Supplier_23,3123,7427.63,57.95
+146,Table,Home & Kitchen,HomeEase,Supplier_32,268,518.86,48.35
+147,Chair,Home & Kitchen,NextGen,Supplier_35,958,2059.58,53.49
+148,Dumbbell,Sports,Apex,Supplier_28,1619,3042.78,46.79
+149,Laptop,Electronics,SmartOne,Supplier_38,3336,4543.76,26.58
+150,Serum,Beauty,Urban,Supplier_5,3175,8334.94,61.91
+151,Jacket,Fashion,Vision,Supplier_5,1821,4384.62,58.47
+152,Dumbbell,Sports,ProMax,Supplier_25,3666,6094.45,39.85
+153,Tablet,Electronics,Elite,Supplier_9,1418,2034.3,30.3
+154,Table,Home & Kitchen,NextGen,Supplier_7,520,1136.8,54.26
+155,Dress,Fashion,PowerGear,Supplier_17,3826,8382.23,54.36
+156,Jacket,Fashion,Prime,Supplier_9,2674,6243.83,57.17
+157,Moisturizer,Beauty,Nova,Supplier_21,1100,3160.73,65.2
+158,Treadmill,Sports,Nova,Supplier_13,297,500.3,40.64
+159,Shoes,Fashion,Nova,Supplier_22,406,740.27,45.16
+160,Serum,Beauty,FitLife,Supplier_38,2013,5613.75,64.14
+161,Camera,Electronics,FitLife,Supplier_20,1710,2463.01,30.57
+162,Face Wash,Beauty,Glow,Supplier_28,1323,4043.24,67.28
+163,Cookware,Home & Kitchen,Urban,Supplier_26,4342,8713.79,50.17
+164,T-Shirt,Fashion,FitLife,Supplier_21,3944,7837.65,49.68
+165,Cricket Bat,Sports,StyleHub,Supplier_17,1610,2665.07,39.59
+166,Perfume,Beauty,TrendX,Supplier_23,3618,11020.59,67.17
+167,Moisturizer,Beauty,Urban,Supplier_33,990,2390.29,58.58
+168,Badminton Racket,Sports,PowerGear,Supplier_37,3444,6440.05,46.52
+169,Cookware,Home & Kitchen,PowerGear,Supplier_36,1266,1919.35,34.04
+170,Shampoo,Beauty,Apex,Supplier_24,2286,5168.84,55.77
+171,Perfume,Beauty,Urban,Supplier_37,2826,7984.57,64.61
+172,Shoes,Fashion,Vision,Supplier_31,496,1020.91,51.42
+173,Treadmill,Sports,TrendX,Supplier_24,3090,5881.38,47.46
+174,Moisturizer,Beauty,TrendX,Supplier_11,1806,5367.94,66.36
+175,Jeans,Fashion,Prime,Supplier_35,3594,6677.78,46.18
+176,Dress,Fashion,Nova,Supplier_11,3021,6780.17,55.44
+177,Dress,Fashion,FitLife,Supplier_19,345,730.73,52.79
+178,Mixer,Home & Kitchen,Apex,Supplier_14,1293,2456.67,47.37
+179,Mixer,Home & Kitchen,NextGen,Supplier_8,2509,3817.33,34.27
+180,Dumbbell,Sports,Glow,Supplier_17,3697,7007.37,47.24
+181,Shampoo,Beauty,Nova,Supplier_36,1312,3666.04,64.21
+182,Dress,Fashion,Vision,Supplier_35,2250,4787.53,53
+183,Shampoo,Beauty,PowerGear,Supplier_19,4096,9117.97,55.08
+184,Jeans,Fashion,PowerGear,Supplier_32,2858,5596.49,48.93
+185,Shampoo,Beauty,Prime,Supplier_34,1686,4058.02,58.45
+186,Yoga Mat,Sports,Urban,Supplier_25,1729,3970.99,56.46
+187,Dress,Fashion,StyleHub,Supplier_20,2086,4333.38,51.86
+188,T-Shirt,Fashion,Urban,Supplier_24,2537,6165.29,58.85
+189,Treadmill,Sports,StyleHub,Supplier_16,2748,6228.41,55.88
+190,Football,Sports,Apex,Supplier_20,4510,10288.86,56.17
+191,Face Wash,Beauty,Glow,Supplier_29,3638,11424.43,68.16
+192,Badminton Racket,Sports,NextGen,Supplier_6,759,1595.65,52.43
+193,Dress,Fashion,NextGen,Supplier_5,2867,5743.76,50.08
+194,Camera,Electronics,Nova,Supplier_6,4789,6148.26,22.11
+195,Yoga Mat,Sports,PowerGear,Supplier_38,3973,6903.85,42.45
+196,Perfume,Beauty,Prime,Supplier_31,2592,6718.87,61.42
+197,Badminton Racket,Sports,Nova,Supplier_2,1459,2992.94,51.25
+198,Camera,Electronics,Apex,Supplier_6,2293,2853.58,19.64
+199,Table,Home & Kitchen,FitLife,Supplier_26,2848,6000.53,52.54
+200,Face Wash,Beauty,NextGen,Supplier_31,314,865.82,63.73
+201,Shoes,Fashion,NextGen,Supplier_38,1483,3171.6,53.24
+202,Shampoo,Beauty,Apex,Supplier_8,3063,8023.62,61.83
+203,Face Wash,Beauty,Urban,Supplier_16,4007,9058.11,55.76
+204,Cookware,Home & Kitchen,PowerGear,Supplier_9,3739,7387.86,49.39
+205,Perfume,Beauty,Vision,Supplier_38,4558,9496.68,52
+206,Moisturizer,Beauty,Elite,Supplier_33,954,2628.71,63.71
+207,Smartwatch,Electronics,TrendX,Supplier_26,899,1290.15,30.32
+208,Moisturizer,Beauty,Prime,Supplier_30,4275,12883.23,66.82
+209,Mobile,Electronics,NextGen,Supplier_4,2574,3583.04,28.16
+210,Jeans,Fashion,Elite,Supplier_24,3052,6320.08,51.71
+211,Mattress,Home & Kitchen,HomeEase,Supplier_6,3849,7092.68,45.73
+212,Camera,Electronics,TrendX,Supplier_18,4289,5335.36,19.61
+213,Serum,Beauty,Urban,Supplier_26,789,2238.55,64.75
+214,T-Shirt,Fashion,ProMax,Supplier_15,4894,11757.56,58.38
+215,Cricket Bat,Sports,Urban,Supplier_2,4976,11417.37,56.42
+216,Camera,Electronics,Vision,Supplier_5,3426,4283.23,20.01
+217,Perfume,Beauty,Vision,Supplier_4,662,2086.71,68.28
+218,Mattress,Home & Kitchen,StyleHub,Supplier_31,1085,1903.92,43.01
+219,Dress,Fashion,FitLife,Supplier_21,3604,6891.08,47.7
+220,Badminton Racket,Sports,FitLife,Supplier_38,4657,8423.3,44.71
+221,Smartwatch,Electronics,PowerGear,Supplier_7,930,1345.17,30.86
+222,Chair,Home & Kitchen,Urban,Supplier_14,4698,8619.8,45.5
+223,Mobile,Electronics,Prime,Supplier_16,1254,1627.41,22.95
+224,Moisturizer,Beauty,Prime,Supplier_34,4588,12992.42,64.69
+225,Cookware,Home & Kitchen,Vision,Supplier_24,3267,6722.01,51.4
+226,Mattress,Home & Kitchen,HomeEase,Supplier_32,1482,2598.05,42.96
+227,Smartwatch,Electronics,Elite,Supplier_39,1797,2158.98,16.77
+228,Jeans,Fashion,NextGen,Supplier_13,3123,6808.82,54.13
+229,Mattress,Home & Kitchen,Glow,Supplier_18,3558,6359.49,44.05
+230,Perfume,Beauty,Nova,Supplier_8,3148,8260.05,61.89
+231,Yoga Mat,Sports,StyleHub,Supplier_23,603,1277.17,52.79
+232,Camera,Electronics,PowerGear,Supplier_36,2972,3969.8,25.13
+233,Shampoo,Beauty,HomeEase,Supplier_36,4229,8860.83,52.27
+234,Shampoo,Beauty,Urban,Supplier_15,1788,5212.65,65.7
+235,Table,Home & Kitchen,PowerGear,Supplier_10,3826,8347.75,54.17
+236,Handbag,Fashion,Elite,Supplier_14,3725,7148.98,47.89
+237,Perfume,Beauty,Elite,Supplier_8,1893,6027.94,68.6
+238,Yoga Mat,Sports,FitLife,Supplier_31,271,512.65,47.14
+239,Dumbbell,Sports,TrendX,Supplier_25,1542,2722.2,43.35
+240,Headphones,Electronics,SmartOne,Supplier_20,4563,6332.39,27.94
+241,Serum,Beauty,HomeEase,Supplier_29,2099,5824,63.96
+242,Mattress,Home & Kitchen,FitLife,Supplier_35,3037,5517.86,44.96
+243,Chair,Home & Kitchen,StyleHub,Supplier_37,2362,5085.14,53.55
+244,Cookware,Home & Kitchen,Prime,Supplier_10,2976,5470.96,45.6
+245,Dress,Fashion,PowerGear,Supplier_40,2445,5161.55,52.63
+246,Headphones,Electronics,StyleHub,Supplier_15,4810,6773.21,28.98
+247,Handbag,Fashion,Nova,Supplier_21,1735,3172.18,45.31
+248,Chair,Home & Kitchen,FitLife,Supplier_5,1128,2126.7,46.96
+249,Football,Sports,Glow,Supplier_7,2471,5232.51,52.78
+250,Jeans,Fashion,Urban,Supplier_13,2119,5124.47,58.65
+251,Cookware,Home & Kitchen,Nova,Supplier_37,3218,6928.01,53.55
+252,Lipstick,Beauty,HomeEase,Supplier_32,4326,13408.32,67.74
+253,Lamp,Home & Kitchen,Urban,Supplier_30,4055,6497.77,37.59
+254,Lipstick,Beauty,Urban,Supplier_28,588,1628.45,63.89
+255,Shampoo,Beauty,Apex,Supplier_1,423,1101.45,61.6
+256,Camera,Electronics,Elite,Supplier_40,2594,3292.72,21.22
+257,Camera,Electronics,TrendX,Supplier_23,869,1046.54,16.96
+258,Jacket,Fashion,Prime,Supplier_23,4433,8878.21,50.07
+259,Shampoo,Beauty,NextGen,Supplier_29,1191,3169.7,62.43
+260,Shoes,Fashion,Vision,Supplier_3,2786,6412.47,56.55
+261,Badminton Racket,Sports,SmartOne,Supplier_1,4302,8963.12,52
+262,Cookware,Home & Kitchen,Apex,Supplier_3,3410,5453.8,37.47
+263,Serum,Beauty,Elite,Supplier_5,396,986.24,59.85
+264,Dress,Fashion,Elite,Supplier_31,1074,2344.82,54.2
+265,Yoga Mat,Sports,NextGen,Supplier_37,2038,3672.78,44.51
+266,Shoes,Fashion,Urban,Supplier_37,891,1668.31,46.59
+267,Headphones,Electronics,StyleHub,Supplier_28,3247,4327.19,24.96
+268,Cricket Bat,Sports,PowerGear,Supplier_26,3668,6931.18,47.08
+269,Shampoo,Beauty,SmartOne,Supplier_21,3242,9536.65,66
+270,Mixer,Home & Kitchen,Vision,Supplier_9,224,436.16,48.64
+271,Mixer,Home & Kitchen,NextGen,Supplier_33,2605,5412.03,51.87
+272,Cricket Bat,Sports,Apex,Supplier_32,411,701.11,41.38
+273,Yoga Mat,Sports,Prime,Supplier_2,3147,5669.92,44.5
+274,Mixer,Home & Kitchen,Prime,Supplier_26,3229,6990.74,53.81
+275,Face Wash,Beauty,Apex,Supplier_25,4484,9584.54,53.22
+276,Face Wash,Beauty,Nova,Supplier_3,2092,5849.81,64.24
+277,Chair,Home & Kitchen,Nova,Supplier_26,4721,8911.41,47.02
+278,Treadmill,Sports,TrendX,Supplier_23,504,891.78,43.48
+279,Cricket Bat,Sports,StyleHub,Supplier_11,2045,3969.48,48.48
+280,Chair,Home & Kitchen,Urban,Supplier_23,2864,4491.02,36.23
+281,Tablet,Electronics,TrendX,Supplier_26,1707,2159.63,20.96
+282,Handbag,Fashion,NextGen,Supplier_36,488,1127.64,56.72
+283,Tablet,Electronics,Apex,Supplier_7,4706,6668.14,29.43
+284,Mixer,Home & Kitchen,Urban,Supplier_5,4913,7544.65,34.88
+285,Face Wash,Beauty,Prime,Supplier_15,4304,13562.32,68.27
+286,Mobile,Electronics,Prime,Supplier_25,4669,5946.04,21.48
+287,Chair,Home & Kitchen,StyleHub,Supplier_23,2339,3759.77,37.79
+288,Jacket,Fashion,Elite,Supplier_38,1084,2256.57,51.96
+289,Table,Home & Kitchen,Vision,Supplier_33,4987,8750.7,43.01
+290,Dumbbell,Sports,Prime,Supplier_28,1180,2527.33,53.31
+291,Tablet,Electronics,Glow,Supplier_6,1613,2089.91,22.82
+292,Perfume,Beauty,Apex,Supplier_33,502,1115.66,55
+293,Dress,Fashion,StyleHub,Supplier_37,3592,7184.23,50
+294,Mobile,Electronics,FitLife,Supplier_13,3992,5346.99,25.34
+295,Football,Sports,StyleHub,Supplier_31,3839,8558.16,55.14
+296,Face Wash,Beauty,ProMax,Supplier_1,4180,9671.83,56.78
+297,Jacket,Fashion,HomeEase,Supplier_13,1215,2349.69,48.29
+298,Jacket,Fashion,Apex,Supplier_5,1448,2817.05,48.6
+299,Headphones,Electronics,Glow,Supplier_22,3080,3906.34,21.15
+300,Tablet,Electronics,HomeEase,Supplier_12,3492,4978.38,29.86
+301,Smartwatch,Electronics,Elite,Supplier_40,1480,1950.2,24.11
+302,Jacket,Fashion,Urban,Supplier_16,4537,10495.5,56.77
+303,Jacket,Fashion,Apex,Supplier_33,1227,2995.26,59.04
+304,Cricket Bat,Sports,Glow,Supplier_19,4956,10150.46,51.17
+305,Badminton Racket,Sports,TrendX,Supplier_32,1437,2372.55,39.43
+306,Lamp,Home & Kitchen,ProMax,Supplier_39,4254,8547.9,50.23
+307,Camera,Electronics,Elite,Supplier_3,2906,3654.23,20.48
+308,T-Shirt,Fashion,FitLife,Supplier_1,3450,7932.29,56.51
+309,Cookware,Home & Kitchen,Vision,Supplier_21,2677,5290.85,49.4
+310,Headphones,Electronics,Elite,Supplier_35,328,402.24,18.46
+311,Laptop,Electronics,Urban,Supplier_5,2019,2675.55,24.54
+312,Tablet,Electronics,Apex,Supplier_32,2461,3429.95,28.25
+313,Shoes,Fashion,Nova,Supplier_33,909,2005.13,54.67
+314,Lipstick,Beauty,PowerGear,Supplier_12,2130,4356.8,51.11
+315,Shoes,Fashion,Vision,Supplier_36,4250,9450.25,55.03
+316,Jacket,Fashion,Nova,Supplier_34,1013,2373.91,57.33
+317,Mixer,Home & Kitchen,Nova,Supplier_26,833,1607.26,48.17
+318,Handbag,Fashion,TrendX,Supplier_34,4488,9851.3,54.44
+319,Shampoo,Beauty,PowerGear,Supplier_11,3265,6894.15,52.64
+320,Tablet,Electronics,Glow,Supplier_6,543,711.67,23.7
+321,Cookware,Home & Kitchen,Nova,Supplier_22,4939,9492.46,47.97
+322,Lipstick,Beauty,Glow,Supplier_19,3458,11003.14,68.57
+323,Yoga Mat,Sports,Elite,Supplier_30,3877,6374.48,39.18
+324,Dress,Fashion,Elite,Supplier_37,1160,2850.7,59.31
+325,Serum,Beauty,Vision,Supplier_16,1630,3840.37,57.56
+326,Badminton Racket,Sports,TrendX,Supplier_20,2622,5123.66,48.83
+327,Mattress,Home & Kitchen,Elite,Supplier_18,2397,4393.43,45.44
+328,Lipstick,Beauty,Vision,Supplier_24,3475,8943.43,61.14
+329,Tablet,Electronics,NextGen,Supplier_30,2954,3946.66,25.15
+330,Headphones,Electronics,Prime,Supplier_15,4960,6019.22,17.6
+331,Mattress,Home & Kitchen,TrendX,Supplier_38,4298,7158.46,39.96
+332,Perfume,Beauty,Urban,Supplier_14,350,738.07,52.58
+333,Cookware,Home & Kitchen,Vision,Supplier_37,258,565.11,54.35
+334,T-Shirt,Fashion,Prime,Supplier_25,3376,6385.09,47.13
+335,Tablet,Electronics,NextGen,Supplier_29,629,896.98,29.88
+336,Headphones,Electronics,FitLife,Supplier_37,4968,6328.12,21.49
+337,Mixer,Home & Kitchen,Apex,Supplier_27,4739,7147.03,33.69
+338,Lipstick,Beauty,SmartOne,Supplier_28,3133,8514.62,63.2
+339,Shoes,Fashion,PowerGear,Supplier_34,1691,3327.66,49.18
+340,Shampoo,Beauty,Elite,Supplier_13,1001,2028.07,50.64
+341,Table,Home & Kitchen,Glow,Supplier_22,3806,6510.96,41.54
+342,Jeans,Fashion,NextGen,Supplier_23,1252,3010.58,58.41
+343,Jacket,Fashion,PowerGear,Supplier_34,1199,2548.13,52.95
+344,Badminton Racket,Sports,Apex,Supplier_8,1144,2607.82,56.13
+345,Laptop,Electronics,Apex,Supplier_20,2314,2870.8,19.4
+346,Shampoo,Beauty,PowerGear,Supplier_17,1976,4128.31,52.14
+347,Headphones,Electronics,Nova,Supplier_35,204,279.6,27.04
+348,Table,Home & Kitchen,Glow,Supplier_26,240,380.54,36.93
+349,Smartwatch,Electronics,Glow,Supplier_14,436,565.38,22.88
+350,Football,Sports,Urban,Supplier_21,941,1612.53,41.64
+351,Moisturizer,Beauty,Vision,Supplier_21,3318,6758.05,50.9
+352,Cookware,Home & Kitchen,StyleHub,Supplier_19,3467,7319.54,52.63
+353,Laptop,Electronics,NextGen,Supplier_5,3650,5173.94,29.45
+354,Tablet,Electronics,SmartOne,Supplier_34,4075,5213.05,21.83
+355,Jeans,Fashion,NextGen,Supplier_5,2074,3823.86,45.76
+356,Smartwatch,Electronics,Apex,Supplier_7,4387,5551.43,20.98
+357,Mattress,Home & Kitchen,SmartOne,Supplier_32,1419,2548.24,44.31
+358,Table,Home & Kitchen,ProMax,Supplier_38,2306,3836.11,39.89
+359,Mixer,Home & Kitchen,Urban,Supplier_31,3723,7725.48,51.81
+360,Mobile,Electronics,Nova,Supplier_32,2580,3509.29,26.48
+361,Treadmill,Sports,NextGen,Supplier_25,572,1043.82,45.2
+362,Laptop,Electronics,Apex,Supplier_18,4766,6673.27,28.58
+363,Table,Home & Kitchen,StyleHub,Supplier_39,2710,4572.38,40.73
+364,Lipstick,Beauty,Elite,Supplier_24,3739,9391.94,60.19
+365,T-Shirt,Fashion,Glow,Supplier_2,4162,8423.22,50.59
+366,Camera,Electronics,Nova,Supplier_40,1146,1523.7,24.79
+367,Cookware,Home & Kitchen,Glow,Supplier_37,4825,9457.2,48.98
+368,Dress,Fashion,Urban,Supplier_39,752,1588.85,52.67
+369,Badminton Racket,Sports,ProMax,Supplier_3,1608,2962.63,45.72
+370,Lipstick,Beauty,NextGen,Supplier_4,4197,10965.2,61.72
+371,Moisturizer,Beauty,FitLife,Supplier_22,1849,5521.14,66.51
+372,Football,Sports,Apex,Supplier_25,4741,7855.45,39.65
+373,Shampoo,Beauty,SmartOne,Supplier_28,1322,2983.79,55.69
+374,Smartwatch,Electronics,SmartOne,Supplier_12,1632,2239.54,27.13
+375,Serum,Beauty,ProMax,Supplier_12,4251,9688.15,56.12
+376,Camera,Electronics,PowerGear,Supplier_31,2735,3775.96,27.57
+377,Mixer,Home & Kitchen,Nova,Supplier_22,3227,6235.63,48.25
+378,Football,Sports,FitLife,Supplier_24,2903,6399.55,54.64
+379,Lamp,Home & Kitchen,Vision,Supplier_12,4684,10199.09,54.07
+380,Lipstick,Beauty,Vision,Supplier_5,3971,11380.86,65.11
+381,Dress,Fashion,Vision,Supplier_14,1417,2868.62,50.6
+382,Laptop,Electronics,ProMax,Supplier_26,440,580.3,24.18
+383,Yoga Mat,Sports,Elite,Supplier_9,4503,7742.33,41.84
+384,Jeans,Fashion,NextGen,Supplier_31,1593,3489.31,54.35
+385,Camera,Electronics,HomeEase,Supplier_23,4914,6270.76,21.64
+386,Dumbbell,Sports,StyleHub,Supplier_36,4453,7472.69,40.41
+387,Jeans,Fashion,Prime,Supplier_24,3278,7084.1,53.73
+388,Headphones,Electronics,HomeEase,Supplier_16,2099,2557.9,17.94
+389,Cricket Bat,Sports,HomeEase,Supplier_8,1816,3927.58,53.76
+390,Mobile,Electronics,Apex,Supplier_21,1911,2505.98,23.74
+391,Mixer,Home & Kitchen,Apex,Supplier_21,3801,5742.09,33.8
+392,Treadmill,Sports,HomeEase,Supplier_2,1266,2135.77,40.72
+393,Football,Sports,NextGen,Supplier_35,4825,10862.7,55.58
+394,Table,Home & Kitchen,Apex,Supplier_15,4142,6694.21,38.13
+395,Face Wash,Beauty,Urban,Supplier_3,3240,9784.15,66.89
+396,Face Wash,Beauty,TrendX,Supplier_14,3323,9216.53,63.95
+397,T-Shirt,Fashion,FitLife,Supplier_22,1018,2535.68,59.85
+398,Lamp,Home & Kitchen,Vision,Supplier_4,2004,3294.36,39.17
+399,Jacket,Fashion,Vision,Supplier_14,4237,10511.03,59.69
+400,Smartwatch,Electronics,PowerGear,Supplier_24,998,1399.88,28.71
+401,Football,Sports,NextGen,Supplier_20,569,1089.14,47.76
+402,Shoes,Fashion,Apex,Supplier_4,3735,9158.87,59.22
+403,Perfume,Beauty,PowerGear,Supplier_29,1301,3993.2,67.42
+404,Badminton Racket,Sports,Nova,Supplier_40,1180,2505.88,52.91
+405,Table,Home & Kitchen,NextGen,Supplier_21,4695,7117.08,34.03
+406,Headphones,Electronics,SmartOne,Supplier_17,1008,1352.83,25.49
+407,Chair,Home & Kitchen,SmartOne,Supplier_6,3767,8284.49,54.53
+408,Perfume,Beauty,Apex,Supplier_6,2611,5395.99,51.61
+409,Lamp,Home & Kitchen,Prime,Supplier_26,2869,4867.05,41.05
+410,Perfume,Beauty,Prime,Supplier_20,2188,6697.72,67.33
+411,Tablet,Electronics,SmartOne,Supplier_18,4614,5596.97,17.56
+412,Perfume,Beauty,Nova,Supplier_19,2734,5599.89,51.18
+413,Perfume,Beauty,HomeEase,Supplier_29,3139,7073.01,55.62
+414,Cookware,Home & Kitchen,ProMax,Supplier_26,3159,6718.01,52.98
+415,Lipstick,Beauty,FitLife,Supplier_22,2790,7355.59,62.07
+416,Laptop,Electronics,Vision,Supplier_24,4354,5346.83,18.57
+417,Headphones,Electronics,Nova,Supplier_29,1162,1501.34,22.6
+418,Smartwatch,Electronics,SmartOne,Supplier_25,2303,2804.57,17.88
+419,T-Shirt,Fashion,FitLife,Supplier_30,526,1275.5,58.76
+420,Shampoo,Beauty,ProMax,Supplier_18,674,1682.27,59.94
+421,Moisturizer,Beauty,ProMax,Supplier_20,3635,9917.47,63.35
+422,Camera,Electronics,SmartOne,Supplier_16,4642,5834.91,20.44
+423,Serum,Beauty,FitLife,Supplier_11,1240,3621.93,65.76
+424,Dumbbell,Sports,HomeEase,Supplier_37,2859,5173.46,44.74
+425,Mixer,Home & Kitchen,PowerGear,Supplier_26,240,417.08,42.46
+426,Dress,Fashion,Nova,Supplier_31,1467,2937.58,50.06
+427,Jacket,Fashion,Glow,Supplier_14,3454,7845.77,55.98
+428,Moisturizer,Beauty,HomeEase,Supplier_30,570,1216.28,53.14
+429,Smartwatch,Electronics,TrendX,Supplier_26,1238,1747.65,29.16
+430,Camera,Electronics,Elite,Supplier_22,868,1169.27,25.77
+431,Badminton Racket,Sports,HomeEase,Supplier_23,1925,4221.11,54.4
+432,Shampoo,Beauty,Urban,Supplier_38,2809,7817.79,64.07
+433,Shampoo,Beauty,StyleHub,Supplier_8,580,1492.32,61.13
+434,Mixer,Home & Kitchen,Apex,Supplier_2,3111,5685.82,45.28
+435,Tablet,Electronics,NextGen,Supplier_40,3218,4636.1,30.59
+436,Yoga Mat,Sports,PowerGear,Supplier_18,3954,7684.31,48.54
+437,Yoga Mat,Sports,SmartOne,Supplier_27,3124,7058.88,55.74
+438,Jeans,Fashion,FitLife,Supplier_22,2971,7368.35,59.68
+439,T-Shirt,Fashion,SmartOne,Supplier_10,3880,9505.9,59.18
+440,Shampoo,Beauty,FitLife,Supplier_18,4884,10120.77,51.74
+441,Handbag,Fashion,Nova,Supplier_12,3692,6704.66,44.93
+442,Shampoo,Beauty,ProMax,Supplier_13,2708,7365.98,63.24
+443,Mixer,Home & Kitchen,Glow,Supplier_32,663,1179.26,43.78
+444,Serum,Beauty,Prime,Supplier_38,4504,14379.02,68.68
+445,Smartwatch,Electronics,SmartOne,Supplier_12,1781,2557.89,30.37
+446,Mattress,Home & Kitchen,HomeEase,Supplier_4,1641,3158.12,48.04
+447,Moisturizer,Beauty,Urban,Supplier_20,4374,8858.93,50.63
+448,Cricket Bat,Sports,FitLife,Supplier_12,1358,3111.26,56.35
+449,Mattress,Home & Kitchen,PowerGear,Supplier_40,2505,4979.17,49.69
+450,Cricket Bat,Sports,Urban,Supplier_5,1166,2080.13,43.95
+451,Headphones,Electronics,FitLife,Supplier_23,1475,1974.03,25.28
+452,Laptop,Electronics,Nova,Supplier_24,1388,1675.14,17.14
+453,Dumbbell,Sports,ProMax,Supplier_13,3740,8464.41,55.81
+454,Badminton Racket,Sports,PowerGear,Supplier_11,1902,4371.23,56.49
+455,Treadmill,Sports,SmartOne,Supplier_21,2656,5271.96,49.62
+456,Camera,Electronics,Vision,Supplier_6,2195,2639.34,16.84
+457,Moisturizer,Beauty,Urban,Supplier_11,1874,5881.64,68.14
+458,Shampoo,Beauty,Urban,Supplier_30,1393,3915.29,64.42
+459,Jacket,Fashion,PowerGear,Supplier_34,4774,11140.64,57.15
+460,Yoga Mat,Sports,Glow,Supplier_17,849,1659.37,48.84
+461,Moisturizer,Beauty,StyleHub,Supplier_11,3342,8461.06,60.5
+462,Dumbbell,Sports,Prime,Supplier_33,3320,6441.64,48.46
+463,Mobile,Electronics,FitLife,Supplier_5,349,443.72,21.35
+464,Dress,Fashion,Apex,Supplier_29,2492,5686.58,56.18
+465,Cricket Bat,Sports,Apex,Supplier_14,2584,5187.92,50.19
+466,Camera,Electronics,StyleHub,Supplier_15,850,1026.45,17.19
+467,Mobile,Electronics,Glow,Supplier_18,4108,4988.69,17.65
+468,Football,Sports,Urban,Supplier_1,955,1862.03,48.71
+469,T-Shirt,Fashion,Nova,Supplier_6,3847,7498.39,48.7
+470,Laptop,Electronics,StyleHub,Supplier_11,2570,3447.45,25.45
+471,Handbag,Fashion,StyleHub,Supplier_38,2338,4208.54,44.45
+472,Shampoo,Beauty,Apex,Supplier_35,634,2010.43,68.46
+473,Tablet,Electronics,ProMax,Supplier_22,4058,4954.27,18.09
+474,Laptop,Electronics,PowerGear,Supplier_27,2787,3864.43,27.88
+475,Mobile,Electronics,PowerGear,Supplier_32,4147,5397.56,23.17
+476,Moisturizer,Beauty,TrendX,Supplier_10,3780,9839,61.58
+477,Table,Home & Kitchen,Nova,Supplier_25,3066,4984.16,38.49
+478,Yoga Mat,Sports,PowerGear,Supplier_7,4297,9440.14,54.48
+479,Football,Sports,Prime,Supplier_25,4284,9335.42,54.11
+480,Tablet,Electronics,PowerGear,Supplier_32,4757,5733.45,17.03
+481,Headphones,Electronics,ProMax,Supplier_18,1595,2074.1,23.1
+482,Mixer,Home & Kitchen,Elite,Supplier_26,2649,4228.28,37.35
+483,Serum,Beauty,Prime,Supplier_15,353,724.48,51.28
+484,Serum,Beauty,FitLife,Supplier_29,4392,10948.59,59.89
+485,Tablet,Electronics,StyleHub,Supplier_1,1371,1732.53,20.87
+486,Shampoo,Beauty,Urban,Supplier_28,4615,12192.14,62.15
+487,Mattress,Home & Kitchen,TrendX,Supplier_7,4069,7801,47.84
+488,Tablet,Electronics,TrendX,Supplier_1,2260,2780.65,18.72
+489,Camera,Electronics,PowerGear,Supplier_29,3945,5077.08,22.3
+490,Moisturizer,Beauty,Vision,Supplier_28,2251,5735.24,60.75
+491,Shampoo,Beauty,StyleHub,Supplier_12,574,1564.11,63.3
+492,Football,Sports,Elite,Supplier_8,2652,5341.95,50.36
+493,Cookware,Home & Kitchen,StyleHub,Supplier_30,3906,7560.11,48.33
+494,Lamp,Home & Kitchen,FitLife,Supplier_38,645,1013.67,36.37
+495,Chair,Home & Kitchen,HomeEase,Supplier_2,4011,7675.56,47.74
+496,Mobile,Electronics,NextGen,Supplier_1,1553,1996.48,22.21
+497,Treadmill,Sports,StyleHub,Supplier_11,513,1126,54.44
+498,Camera,Electronics,Apex,Supplier_40,3462,4776.06,27.51
+499,Tablet,Electronics,FitLife,Supplier_26,1209,1569.11,22.95
+500,Mattress,Home & Kitchen,Apex,Supplier_16,3448,6103.07,43.5

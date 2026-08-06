@@ -1,0 +1,31 @@
+Promotion_ID,Promotion_Name,Promotion_Type,Discount_Percentage
+1,Promo_1,BOGO,5
+2,Promo_2,Clearance,0
+3,Promo_3,BOGO,0
+4,Promo_4,Flash Sale,0
+5,Promo_5,Flash Sale,30
+6,Promo_6,Festival Sale,30
+7,Promo_7,Clearance,25
+8,Promo_8,Flash Sale,20
+9,Promo_9,Flash Sale,20
+10,Promo_10,Coupon,15
+11,Promo_11,Coupon,15
+12,Promo_12,Coupon,0
+13,Promo_13,Festival Sale,0
+14,Promo_14,Clearance,20
+15,Promo_15,Festival Sale,30
+16,Promo_16,BOGO,0
+17,Promo_17,Clearance,15
+18,Promo_18,Coupon,25
+19,Promo_19,Festival Sale,30
+20,Promo_20,Clearance,0
+21,Promo_21,BOGO,40
+22,Promo_22,Clearance,0
+23,Promo_23,BOGO,30
+24,Promo_24,Flash Sale,20
+25,Promo_25,Clearance,15
+26,Promo_26,BOGO,40
+27,Promo_27,Festival Sale,25
+28,Promo_28,Clearance,0
+29,Promo_29,Flash Sale,20
+30,Promo_30,Coupon,20
