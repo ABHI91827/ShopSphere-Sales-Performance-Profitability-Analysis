@@ -1,0 +1,34 @@
+Validation Checks Performed
+
+✔ Duplicate records
+
+✔ Missing values
+
+✔ Invalid foreign keys
+
+✔ Negative quantity
+
+✔ Negative revenue
+
+✔ Negative profit investigation
+
+✔ Null dates
+
+✔ Invalid category values
+
+✔ Date range verification
+
+✔ Revenue calculation verification
+
+
+Findings:
+
+No duplicate transactions were identified.
+
+No missing primary or foreign keys were found.
+
+Date relationships were valid.
+
+One negative-profit transaction was identified and validated as a legitimate business loss.
+
+Dataset quality was suitable for business analysis.

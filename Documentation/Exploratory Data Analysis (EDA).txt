@@ -1,0 +1,31 @@
+
+Exploratory Data Analysis (EDA)
+
+The exploratory analysis focused on understanding business performance before investigating root causes.
+
+KPIs Explored
+Total Revenue
+Total Profit
+Orders
+Customers
+Categories
+Revenue Trend
+Profit Trend
+Regional Performance
+Average Order Value
+Average Selling Price
+Discount Analysis
+
+Initial Observations:
+
+Revenue decreased slightly in 2025.
+
+Profit decreased slightly.
+
+Orders remained stable.
+
+Customer count remained stable.
+
+Beauty generated the highest revenue.
+
+Electronics generated the lowest profit margin.
