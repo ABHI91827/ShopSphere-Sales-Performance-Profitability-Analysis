@@ -1,0 +1,131 @@
+Root Cause Analysis
+
+Business Question:
+
+Why did revenue and profit decline despite stable customer activity?
+
+
+Investigation 1
+Did customer activity decline?
+
+Finding:
+
+Orders remained stable.
+Customers remained stable.
+
+Conclusion:
+
+Rejected.
+Customer activity was not responsible.
+
+
+Investigation 2
+Did Average Order Value decrease?
+
+Finding:
+
+AOV decreased from
+
+₹8,568.95
+
+to
+
+₹8,541.43
+
+Conclusion:
+
+Supported.
+Customers spent slightly less per transaction.
+
+Investigation 3
+Were discounts responsible?
+
+Finding:
+
+Discount amount decreased.
+
+Conclusion:
+
+Rejected.
+Discounts did not drive the decline.
+
+Investigation 4:
+Which categories lost revenue?
+
+Revenue Loss
+
+Beauty
+
+−₹2.58M
+
+Home & Kitchen
+
+−₹1.44M
+
+Electronics
+
+−₹0.60M
+
+Revenue Growth
+
+Fashion
+
++₹2.48M
+
+Sports
+
++₹0.90M
+
+Conclusion:
+
+The decline in Beauty, Home & Kitchen, and Electronics outweighed the growth in Fashion and Sports.
+
+Investigation 5:
+Did profit margins decline?
+
+Beauty
+
+↓
+
+Electronics
+
+↓
+
+Fashion
+
+↑
+
+Sports
+
+↑
+
+Home & Kitchen
+
+↑
+
+Conclusion:
+
+Profitability weakened mainly in Beauty and Electronics.
+
+Investigation 6:
+Did costs increase?
+
+Finding:
+
+Total costs decreased slightly.
+Cost percentage increased only marginally because revenue declined faster than costs.
+
+Conclusion:
+
+Cost was not a major driver of lower profitability.
+Overall Root Cause
+Revenue declined primarily because:
+Average Order Value decreased.
+Beauty, Home & Kitchen, and Electronics underperformed.
+
+Profit declined because:
+
+Revenue decreased.
+Profit margins weakened in Beauty and Electronics.
+
+No evidence suggested that customer loss, order volume, discounts, or rising costs were the primary causes.
